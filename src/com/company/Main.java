@@ -28,7 +28,8 @@ public class Main {
 
 
             for (int z = 0; z < howmanystars; z++) {
-                System.out.print(" *");
+                System.out.print(" ");
+                System.out.print("*");
             }
 
 
