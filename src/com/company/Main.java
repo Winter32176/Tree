@@ -23,7 +23,7 @@ public class Main {
 
 
             for (int j = 0; j < howmanyspaces; j++) {
-                System.out.print(" ");
+                System.out.print(" ");//repeat
             }
 
 
